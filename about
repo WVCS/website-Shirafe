@@ -1,0 +1,74 @@
+<html>
+<body>
+  
+  <nav>
+    <li><a href="index.html"> HOME </a> </li>
+    <li><a href="apps.html"> APP PAGE </a> </li>
+    <li><a href="about.html"> ABOUT </a> </li>
+    
+    </nav>
+  
+  <center>
+    <h2> About Me! </h2>
+      <p> My name is Shira Ehrlich and I go to Westview High School. </p>
+        <p> My teacher's name is Ms. Neumann and I am in her period 4 Computer Science Principles class. 
+          </p>
+       <p> 
+         I took Computer Science Principles because I wanted to have some experience with coding and be more knowledgable about computers. 
+  </p>
+    <p>
+      My favorite project that we did this year was the lists project because I felt like I was pretty advanced into coding and because I could see my growth from our first project. </p>
+    
+    <img
+src= "https://www.kindpng.com/picc/m/151-1510104_computer-science-clip-art-hd-png-download.png"
+    
+  <body/>
+  <html>
+  
+  <style>
+  nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 300px;
+  font-size: 20px;
+  background-color: yellow;
+  position: fixed; 
+  border: 1px solid #555
+}
+
+a {
+  color: green;
+  text-decoration: none;
+}
+
+li {
+  text-align: center; 
+  border-bottom: 1px solid #555;
+  
+}
+
+li:hover {
+background-color: lightblue;  
+  text-size: 30px;
+}
+
+body {
+  background-color: lightyellow;
+}
+
+h2 {
+  font-size: 35px;
+  text-shadow: 2px 2px blue;
+}
+
+p {
+  font-size: 20px
+}
+
+img:hover {
+  border: dashed blue 10px;
+  border radius: 40%;
+}
+<style>
+  
